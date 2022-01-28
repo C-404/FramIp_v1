@@ -1,2 +1,2 @@
 # FramIp
-FramIp - it a framework for work at IP and domain
+FramIp - it a framework for work with IP and domain
