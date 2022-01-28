@@ -16,13 +16,13 @@ except:
     os.system('clr || clear')
     os.system('pip install colorama')
     from colorama import *
-import modules.scanp
-import modules.SearchIp
+import scanp
+import SearchIp
 
-getIPaddr = modules.siteName.getIP
-getServer = modules.siteName.getServerName
-search = modules.SearchIp.search
-scan = modules.scanp.sc
+getIPaddr = siteName.getIP
+getServer = siteName.getServerName
+search = SearchIp.search
+scan = scanp.sc
 
 os.system('clr || clear')
 #переменная с лого
