@@ -7,7 +7,7 @@ except:
     print('[×]Error\n Library request not found')
     os.system('clr || clear')
     os.system('pip install requests')
-import modules.siteName
+import siteName
 try:
     from colorama import *
 except:
